@@ -2,7 +2,7 @@ friends = ["Apple","Orange",5,0.667,False,"Akash", "Rohan"]
 
 print(friends[1])
 
-friends[2] = "Grapes"#Unlike strings lists areare mjuteable
+friends[2] = "Grapes"#Unlike strings lists areare muteable
 
 print(friends[2])
 
